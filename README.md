@@ -8,5 +8,5 @@ HuggingFace's neuralcoref is an excellent library, but I had to jump through a l
 from easyneuralcoref import EasyNeuralCoref
 nc = EasyNeuralCoref()
 nc('Angela lives in Boston. She is quite happy in that city.')
-'Angela lives in Boston. Angela is quite happy in Boston.'
+# 'Angela lives in Boston. Angela is quite happy in Boston.'
 ```
