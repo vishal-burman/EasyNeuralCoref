@@ -16,7 +16,7 @@ HuggingFace's neuralcoref is an excellent library, but I had to jump through a l
    ```
 4. Install the package EasyNeuralCoref
    ```bash
-   pip install git+https://github.com/vishal-burman/EasyNeuralCoref.git"
+   pip install git+https://github.com/vishal-burman/EasyNeuralCoref.git
    ```
 
 ## Usage
