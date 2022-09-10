@@ -1,0 +1,1 @@
+from easyneuralcoref.wrapper import EasyNeuralCoref
