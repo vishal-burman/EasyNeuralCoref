@@ -34,7 +34,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="easyneuralcoref",
     packages=find_packages(exclude=["tests"]),
-    version="0.0.1",
+    version="0.1.2",
     author="Vishal Burman",
     author_email="vishal.a.burman23@gmail.com",
     description="An easy to use thin wrapper on top of neuralcoref library from Huggingface for coreference resolution",
